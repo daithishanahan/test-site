@@ -1,10 +1,1 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>title</title>
-  </head>
-  <body>
-  <p>this is some sort of test</p>
-  </body>
-</html>
+# Dáithí Shanahan
